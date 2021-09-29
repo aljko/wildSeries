@@ -1,6 +1,6 @@
 @import "~bootstrap/scss/bootstrap";
 
-$primary: #1d1160;
+$primary: pink;
 $danger: #008da8;
  $theme-colors: (
   "primary": $primary,
@@ -8,5 +8,5 @@ $danger: #008da8;
 );
 
 body {
-    background-color:$danger;
+    background-color:pink;
 }
